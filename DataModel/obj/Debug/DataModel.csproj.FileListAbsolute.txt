@@ -1,0 +1,12 @@
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\bin\Debug\DataModel.dll.config
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\bin\Debug\DataModel.dll
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\bin\Debug\DataModel.pdb
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\bin\Debug\EntityFramework.dll
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\bin\Debug\EntityFramework.xml
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\obj\Debug\DataModel.dll
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\DataModel\obj\Debug\DataModel.pdb

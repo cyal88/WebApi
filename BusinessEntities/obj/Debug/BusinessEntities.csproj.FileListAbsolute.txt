@@ -1,0 +1,5 @@
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+\\CHILAMSTATION\Data\Projects\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
